@@ -1,4 +1,4 @@
-"""
+    """
 Configuration file for X-ray self-supervised learning
 """
 from dataclasses import dataclass
